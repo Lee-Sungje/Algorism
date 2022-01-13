@@ -5,7 +5,7 @@
  * Url: https://programmers.co.kr/learn/courses/30/lessons/77484
  */
 
-package Level1
+package level1.lotto
 
 class Solution {
     private fun rank(sameNumber: Int) = when(sameNumber) {
